@@ -1,5 +1,5 @@
 # Star Wars: Galaxy's Edge Guest Experience
-![Bryant-Denny Stadium](images/stadium.png)
+![Bryant-Denny Stadium](images/starwars.jpg)
 
 This survey was conducted to identifying important correlations in the guest experience at Star Wars: Galaxy's Edge at both Walt Disney World and Disneyland.
 
